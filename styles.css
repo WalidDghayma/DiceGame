@@ -1,0 +1,32 @@
+html {
+  color: #4ecca3;
+  font-size: 16px;
+  font-family: "Indie Flower", cursive;
+}
+body {
+  background-color: #393e46;
+}
+
+.container {
+  padding: 0 15%;
+  text-align: center;
+}
+
+.big-header {
+  font-family: "Lobster", cursive;
+  font-size: 5rem;
+}
+
+.player-text {
+  font-size: 1.5rem;
+}
+
+.player-box {
+  display: inline-block;
+  margin: 0 3%;
+}
+
+footer {
+  padding-top: 7%;
+  text-align: center;
+}
